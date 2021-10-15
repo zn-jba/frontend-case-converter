@@ -1,0 +1,10 @@
+.container {
+    max-width: 90%;
+}
+
+#text-area {
+    display: block;
+    resize: vertical;
+    min-width: 50%;
+    margin-bottom: 1em;
+}
